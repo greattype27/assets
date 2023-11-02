@@ -1,0 +1,17 @@
+{
+    "name": "Tether USD",
+    "website": "https://www.ittocken.space",
+    "description": "In today's digital age, content creation has become an essential component of marketing and brand promotion. For IT firms looking to expand their online presence and engage with a wider audience, the USDT (Tether) stablecoin can be a valuable asset. USDT is a cryptocurrency that is pegged to the value of the US dollar, making it a reliable and secure medium for transactions and investments. In this guide, we'll explore how IT companies can utilize USDT to fund their YouTube content creation endeavors.",
+    "explorer": "https://bscscan.com/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "USDT",
+    "type": "BEP20",
+    "decimals": 6,
+    "status": "active",
+    "links": [
+        {
+            "name": "Website",
+            "url": "https://www.ittocken.space"
+        }
+    ]
+}
